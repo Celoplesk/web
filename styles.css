@@ -1,0 +1,70 @@
+body {
+    background-image: url(Obrázky/jo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.uvodni-text {
+    text-align: left;
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.nadpisy {
+    text-align: center;
+    color:rgb(29, 18, 189) ;
+    font-size: 300%;
+    font-weight: bolder;
+    position: relative;
+    
+}
+
+.down-left {
+    position: relative;
+    top: 400px;
+    left:80px;
+}
+
+.text {
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: justify;
+  }
+
+.down-mid {
+    position: relative;
+    top: 75px;
+    right: 20px;
+}
+
+.center {
+display: block;
+margin: 0 auto;
+}
+
+.down-right {
+position: relative;
+bottom: 230px;
+left: 1300px;
+}
+
+.mid-left {
+position: relative;
+bottom: 900px;
+left: 250px;
+}
+
+.mid-mid {
+position: relative;
+bottom: 900px;
+left: 800px;
+}
+
+.mid-right {
+    position: relative;
+    bottom: 900px;
+    right: 350px;
+}
